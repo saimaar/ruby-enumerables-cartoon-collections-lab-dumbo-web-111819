@@ -25,8 +25,6 @@ end
     
     if array.include?(ele)
       return ele
-    else 
-      return nil
     end 
   }
 end 
