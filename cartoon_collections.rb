@@ -23,7 +23,7 @@ end
   
   cheese_types.each{|ele|
     
-    if array..include?(ele)
+    if array.include?(ele)
       return ele
     else 
       return nil
